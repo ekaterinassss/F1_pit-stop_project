@@ -114,16 +114,16 @@ An online algorithm: at each lap, the expected cost of continuing on current tyr
 
 | Strategy | Median race time |
 |---|---|
-| Baseline SOFT→MEDIUM(12)→HARD(38) | 81.75 min |
-| Grid Search SOFT→MEDIUM(19)→HARD(35) | **81.67 min** |
+| Baseline | 81.75 min |
+| Grid Search | **81.67 min** |
 | Lookahead | **81.67 min** |
 
 ### Interlagos (3 pit stops, 50 simulations)
 
 | Strategy | Median race time |
 |---|---|
-| Baseline SOFT→MEDIUM(17)→HARD(36)→MEDIUM(61) | 96.36 min |
-| Grid Search SOFT→MEDIUM(10)→SOFT(18)→HARD(46) | **95.93 min** |
+| Baseline | 96.36 min |
+| Grid Search | **95.93 min** |
 | Lookahead | **95.94 min** |
 
 ### Safety Car Scenario Analysis (Interlagos)
@@ -140,7 +140,7 @@ An online algorithm: at each lap, the expected cost of continuing on current tyr
 ## Author
 
 Submitted by: Ekaterina Sushko,
-3rd-year student, "Applied Data Analysis" Programme  
+3rd-year student, "Data Science and Business Analytics" Programme  
 Faculty of Computer Science, HSE University
 
 Project Supervisor: Daria Bashminova  
